@@ -18,16 +18,7 @@ The CNN architecture includes:
 - **Regularization:** Dropout (0.5) and L2 regularization  
 - **Output Layer:** Single neuron with sigmoid activation for binary classification  
 
-## Dataset Structure
-train/
-├── husky_withoutbg/
-│ ├── husky1.jpg
-│ ├── husky2.jpg
-│ └── ...
-└── wolf_withoutbg/
-├── wolf1.jpg
-├── wolf2.jpg
-└── ...
+
 
 ## Model Configuration
 ### Hyperparameters
